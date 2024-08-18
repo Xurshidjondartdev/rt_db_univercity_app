@@ -1,0 +1,47 @@
+name: rt_db_univercity_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.6
+
+  #core
+  firebase_core: ^2.31.1
+  firebase_analytics: ^10.10.6
+
+  # auth
+  firebase_auth: ^4.19.6
+
+  # crashlytics
+  firebase_crashlytics: ^3.5.6
+
+  # remote config
+  firebase_remote_config: ^4.4.6
+
+  # real time database
+  firebase_database: ^10.5.7
+  firebase_storage: ^11.7.7
+  file_picker: ^8.0.3
+  video_player: ^2.8.6
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # assets:
+  #   - assets/img.png

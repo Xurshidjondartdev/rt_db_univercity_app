@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628039280861",
+    "project_id": "realtimedb-ac064",
+    "storage_bucket": "realtimedb-ac064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628039280861:android:7a37999bba2369f78a1334",
+        "android_client_info": {
+          "package_name": "com.example.rt_db_univercity_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHpNQaERKJV6Z4PV9lGCeMLRAqoPzboc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
